@@ -1,0 +1,25 @@
+# Local configuration and credentials (examples contain placeholders only)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+.codex/
+.agents/
+.local/
+node_modules/
+dist/
+dist-ssr/
+coverage/
+test-results/
+playwright-report/
+*.log
+*.tsbuildinfo
+*.tmp
+*.local
+backups/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

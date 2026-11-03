@@ -1,0 +1,384 @@
+[
+  {
+    "name": "University Presidency",
+    "buildingCode": "D1",
+    "floor": "L1",
+    "mapCode": "D1 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Public Relations and Media Department",
+    "buildingCode": "D1",
+    "floor": "L0",
+    "mapCode": "D1 - L0",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Internal Control and Audit Unit",
+    "buildingCode": "A1",
+    "floor": "L0",
+    "mapCode": "A1 - L0",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Presidency Unit, Councils Affairs Unit, Legal Affairs Department",
+    "buildingCode": "A1",
+    "floor": "L2",
+    "mapCode": "A1 - L2",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Financial Affairs Unit",
+    "buildingCode": "A1",
+    "floor": "L3",
+    "mapCode": "A1 - L3",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Deanship of Scientific Research",
+    "buildingCode": "A1",
+    "floor": "L1",
+    "mapCode": "A1 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Human Resources Unit",
+    "buildingCode": "A2",
+    "floor": "L2",
+    "mapCode": "A2 - L2",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Architecture Studios",
+    "buildingCode": "A3",
+    "floor": "L2",
+    "mapCode": "A3 - L2",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Deanship of the Faculty of Veterinary Medicine",
+    "buildingCode": "G1",
+    "floor": "L1",
+    "mapCode": "G1 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Clinical Veterinary Medical Sciences",
+    "buildingCode": "G1",
+    "floor": "L2",
+    "mapCode": "G1 - L2",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Basic Veterinary Medical Sciences",
+    "buildingCode": "G1",
+    "floor": "L3",
+    "mapCode": "G1 - L3",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Pathology and Public Health",
+    "buildingCode": "C1",
+    "floor": "L2",
+    "mapCode": "C1 - L2",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Deanship of Graduate Studies",
+    "buildingCode": "C1",
+    "floor": "L1",
+    "mapCode": "C1 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Cultural Advisor Office",
+    "buildingCode": "C5",
+    "floor": "L1",
+    "mapCode": "C5 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Deanship of the Faculty of Agriculture",
+    "buildingCode": "M1",
+    "floor": "L1",
+    "mapCode": "M1 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Animal Production",
+    "buildingCode": "M1",
+    "floor": "L3",
+    "mapCode": "M1 - L3",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Plant Production",
+    "buildingCode": "M1",
+    "floor": "L2",
+    "mapCode": "M1 - L2",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Natural Resources and Environment",
+    "buildingCode": "C4",
+    "floor": "L2",
+    "mapCode": "C4 - L2",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Nutrition and Food Technology",
+    "buildingCode": "C4",
+    "floor": "L3",
+    "mapCode": "C4 - L3",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Deanship of the Faculty of Engineering",
+    "buildingCode": "E1",
+    "floor": "L1",
+    "mapCode": "E1 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Nuclear Engineering",
+    "buildingCode": "E2",
+    "floor": "L2",
+    "mapCode": "E2 - L2",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Chemical Engineering",
+    "buildingCode": "CH1",
+    "floor": "L1",
+    "mapCode": "CH1 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Civil Engineering",
+    "buildingCode": "C2",
+    "floor": "L3",
+    "mapCode": "C2 - L3",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Electrical Engineering",
+    "buildingCode": "E2",
+    "floor": "L3",
+    "mapCode": "E2 - L3",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Mechanical Engineering",
+    "buildingCode": "M6",
+    "floor": "L2",
+    "mapCode": "M6 - L2",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Biosystems Engineering",
+    "buildingCode": "CH1",
+    "floor": "L1",
+    "mapCode": "CH1 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Biomedical Engineering",
+    "buildingCode": "M2",
+    "floor": "L1",
+    "mapCode": "M2 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Aeronautical Engineering",
+    "buildingCode": "M2",
+    "floor": "L0",
+    "mapCode": "M2 - L0",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Industrial Engineering",
+    "buildingCode": "M5",
+    "floor": "L3",
+    "mapCode": "M5 - L3",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Humanities",
+    "buildingCode": "M6",
+    "floor": "L1",
+    "mapCode": "M6 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Faculty of Architecture and Design",
+    "buildingCode": "A4",
+    "floor": "L0",
+    "mapCode": "A4 - L0",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Deanship of the Faculty of Computer Technology and Information Systems",
+    "buildingCode": "N2",
+    "floor": "L1",
+    "mapCode": "N2 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Computer Engineering, National Service Office",
+    "buildingCode": "C5",
+    "floor": "L2",
+    "mapCode": "C5 - L2",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Soil Laboratory",
+    "buildingCode": "C6",
+    "floor": "L1",
+    "mapCode": "C6 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Department of Architecture and Design",
+    "buildingCode": "G2",
+    "floor": "L1",
+    "mapCode": "G2 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Computer and Information Center",
+    "buildingCode": "C3",
+    "floor": "L1",
+    "mapCode": "C3 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Science and Technology Consulting Center",
+    "buildingCode": "M1",
+    "floor": "L0",
+    "mapCode": "M1 - L0",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Energy Center",
+    "buildingCode": "M4",
+    "floor": "L1",
+    "mapCode": "M4 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Queen Rania Al Abdullah Center for Environmental Science and Technology",
+    "buildingCode": "N1",
+    "floor": "L0",
+    "mapCode": "N1 - L0",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Civil Society Development Center",
+    "buildingCode": "G1",
+    "floor": "L0",
+    "mapCode": "G1 - L0",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "IEEE Student Branch",
+    "buildingCode": "M3",
+    "floor": "L1",
+    "mapCode": "M3 - L1",
+    "codeType": "building_floor"
+  },
+  {
+    "name": "Construction Laboratory",
+    "mapCode": "332",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "Nuclear Energy Center",
+    "mapCode": "334",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "Nanotechnology Center",
+    "mapCode": "335",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "Mechanical Laboratory",
+    "mapCode": "336",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "Arab and International Students Office / Al-Karama Auditorium",
+    "mapCode": "311",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "Al-Farouq Auditorium",
+    "mapCode": "312",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "Student Cafeteria",
+    "mapCode": "313",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "Salah Al-Din Auditorium",
+    "mapCode": "314",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "Center of Excellence for Innovative Projects",
+    "mapCode": "315",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "Engineering Workshops",
+    "mapCode": "341",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "Engineering Workshops",
+    "mapCode": "342",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "Engineering Workshops",
+    "mapCode": "344",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "Environmental House",
+    "mapCode": "345",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "Student Entrance",
+    "mapCode": "15",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "Cairo Amman Bank",
+    "mapCode": "14",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "University Post Office",
+    "mapCode": "14",
+    "codeType": "numeric_marker"
+  },
+  {
+    "name": "Medical Clinic",
+    "symbol": "medical",
+    "codeType": "symbol_marker"
+  },
+  {
+    "name": "Parking",
+    "symbol": "parking",
+    "codeType": "symbol_marker"
+  },
+  {
+    "name": "Bus Stop",
+    "symbol": "bus",
+    "codeType": "symbol_marker"
+  }
+]
