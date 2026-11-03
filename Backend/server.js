@@ -22,10 +22,10 @@ app.use(
     origin: [
       "http://localhost:5173",
       "https://fix-flow-one-green.vercel.app",
+      "https://fix-flow-v2.vercel.app",
     ],
   })
 );
-
 app.use(express.json());
 
 app.use("/api/health", healthRoutes);
